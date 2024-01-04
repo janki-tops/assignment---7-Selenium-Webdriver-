@@ -29,9 +29,9 @@ public class gmailannotation {
 	 }
 	 @After
 	 public void driverclose() {
-		if (driver!=null) {
+		
 		 driver.close();
-		}
+		
 	 } 
 
 
